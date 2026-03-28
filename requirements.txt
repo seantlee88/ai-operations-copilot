@@ -1,0 +1,6 @@
+streamlit
+openai
+pypdf
+pandas
+faiss-cpu
+tiktoken
